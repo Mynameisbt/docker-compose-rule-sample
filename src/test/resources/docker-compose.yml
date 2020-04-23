@@ -1,0 +1,8 @@
+version: "2"
+services:
+  redis:
+    hostname: redis.docker
+    container_name: redis.docker
+    image: redis:2.6.17
+    ports:
+      - "6379:6379"
