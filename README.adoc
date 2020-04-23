@@ -1,0 +1,3 @@
+= Docker Compose Rule Sample project
+
+This is an sample project for using the Palantir Docker Compose Rule to use a docker-compose file with JUNIT test
